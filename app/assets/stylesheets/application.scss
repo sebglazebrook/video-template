@@ -1,2 +1,10 @@
 @import "bootstrap-sprockets"; // "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
 @import "bootstrap";
+
+.action-wrapper {
+  text-align: center;
+}
+
+.links {
+  margin-top: 1em;
+}
